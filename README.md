@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chiscookeke11
-- frontend engineer
+- Frontend Developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me chiscookeke11@gmail.cm
 
