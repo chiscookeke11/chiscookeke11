@@ -1,3 +1,3 @@
-Full-Stack Developer | Blockchain Enthusiast
-Proficient in HTML, CSS, JavaScript, React.js, Node.js, and Express. Experienced in blockchain development using Cairo, Move, and Solidity. Passionate about building end-to-end scalable applications and smart contracts, with a strong focus on decentralized systems and the Web3 ecosystem. Skilled in delivering seamless user experiences and efficient backend solutions.
+**Frontend Developer | Blockchain Enthusiast**  
+Proficient in HTML, CSS, JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS. Experienced in building dynamic and responsive user interfaces with a keen eye for design, performance, and accessibility. Passionate about crafting intuitive and scalable frontend applications, optimizing user experiences, and integrating Web3 technologies. Skilled in React state management, component-based architecture, server-side rendering, and interactive UI development.
 
