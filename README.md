@@ -59,7 +59,7 @@ I specialize in building responsive, accessible, and high-performance web interf
 - 🌍 I’m an active participant in Web3 and blockchain hackathons.
 - 🧠 I learn by building real projects and collaborating with diverse teams.
 - 🧪 I merge tech and science to create solutions that matter.
-- 🤖 I’ve built games and health tools powered by blockchain technologies!
+- 🤖 I’ve built Dapps powered by blockchain technologies!
 
 ---
 
