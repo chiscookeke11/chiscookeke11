@@ -15,7 +15,6 @@ I specialize in building responsive, accessible, and high-performance web interf
 - 💻 Proficient in: **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Tailwind CSS**
 - 🔁 Experienced in: Component architecture, state management, SSR, and interactive UI
 - 🌐 Passionate about: Clean UI, performance optimization, and Web3 integration
-- 🛠 Currently working on: A blockchain-powered health dApp and a 4pics1word crypto game
 - 🎓 Studying Chemistry at UNN | Exploring Green Tech & Blockchain Applications
 - 🤝 Open to collaboration on Web3, frontend projects, or hackathons
 
