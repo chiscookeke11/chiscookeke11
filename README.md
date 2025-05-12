@@ -13,8 +13,8 @@ I'm a passionate frontend developer with a strong interest in Web3 technologies 
 I specialize in building responsive, accessible, and high-performance web interfaces.
 
 - 💻 Proficient in: **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Tailwind CSS**
-- 🔁 Experienced in: Component architecture, state management, SSR, and interactive UI
-- 🌐 Passionate about: Clean UI, performance optimization, and Web3 integration
+- 🔁 Experienced in: Component architecture, SSR, state management, and building interactive UIs
+- 🌐 Backend experience with: **Supabase**, **PostgreSQL**, and SQL queries
 - 🎓 Studying Chemistry at UNN | Exploring Green Tech & Blockchain Applications
 - 🤝 Open to collaboration on Web3, frontend projects, or hackathons
 
@@ -30,11 +30,11 @@ I specialize in building responsive, accessible, and high-performance web interf
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-0A66C2?style=flat&logo=sui&logoColor=white)
 ![Cairo](https://img.shields.io/badge/Cairo-1E1E1E?style=flat&logo=code&logoColor=white)
-
-
-
 
 ---
 
