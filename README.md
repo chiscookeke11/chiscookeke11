@@ -9,12 +9,11 @@
 
 🚀 **About Me**
 
-I'm a passionate frontend developer with a strong interest in Web3 technologies and decentralization.  
-I specialize in building responsive, accessible, and high-performance web interfaces.
+Creative and adaptable Frontend Developer with strong experience in crafting user-centric web and Web3 applications. Skilled in React.js, TypeScript, and Tailwind CSS, with practical knowledge of smart contract integration, API testing, and multi-chain dApp development. Proven ability to collaborate with backend teams, work with blockchain SDKs, and deliver responsive, performant interfaces. Passionate about solving real-world problems at the intersection of Web3, design, and functionality.
 
-- 💻 Proficient in: **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Tailwind CSS**
+- 💻 Proficient in:  **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Tailwind CSS**
 - 🔁 Experienced in: Component architecture, SSR, state management, and building interactive UIs
-- 🌐 Backend experience with: **Supabase**, **PostgreSQL**, and SQL queries
+- 🌐 Backend experience with: **Supabase**, **firebase**, **PostgreSQL**, and SQL queries
 - 🎓 Studying Chemistry at UNN | Exploring Green Tech & Blockchain Applications
 - 🤝 Open to collaboration on Web3, frontend projects, or hackathons
 
