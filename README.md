@@ -9,13 +9,14 @@
 
 🚀 **About Me**
 
-Creative and adaptable Software Engineer with strong experience in building user-centric web and Web3 applications. Skilled in React.js, TypeScript, and Tailwind CSS, with practical knowledge of smart contract integration, API testing, and multi-chain dApp development. Proven ability to collaborate with backend teams, work with blockchain SDKs, and deliver responsive, performant interfaces. Passionate about solving real-world problems at the intersection of Web3, design, and functionality. Actively learning, building, contributing, and collaborating on meaningful projects.  
+Versatile and experienced Software Engineer specializing in building web and Web3 applications. Skilled in designing and delivering user-centric, scalable, and performant solutions using modern technologies. Experienced with React.js, Next.js, TypeScript, Tailwind CSS, smart contract integration, API testing, and multi-chain dApp development. Proven ability to collaborate across teams, architect components, and contribute to both frontend and backend systems. Actively learning, building, contributing, and leading projects that merge technology with real-world impact.  
 
-- 💻 Proficient in: **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Tailwind CSS**  
-- 🔁 Experienced in: Component architecture, SSR, state management, and interactive UI development  
-- 🌐 Backend experience with: **Supabase**, **Firebase**, **PostgreSQL**, and SQL queries  
+- 💻 Core skills: **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Node.js**, **Tailwind CSS**  
+- 🔁 Engineering expertise: Component architecture, SSR, state management, testing, CI/CD, and building interactive, scalable systems  
+- 🌐 Backend & DB: **Supabase**, **Firebase**, **PostgreSQL**, **SQL**, REST & GraphQL APIs  
+- 🧪 Blockchain & Web3: **Sui**, **Cairo**, **Ethereum**, **ThirdWeb**, smart contracts, multi-chain dApps  
 - 🎓 Studying Chemistry at UNN | Exploring Green Tech & Blockchain Applications  
-- 🤝 Open to collaboration on Web3, frontend, or full-stack projects and hackathons  
+- 🤝 Open to collaboration on full-stack, Web3, or software engineering projects  
 
 ---
 
@@ -27,6 +28,7 @@ Creative and adaptable Software Engineer with strong experience in building user
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
@@ -34,6 +36,8 @@ Creative and adaptable Software Engineer with strong experience in building user
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-0A66C2?style=flat&logo=sui&logoColor=white)
 ![Cairo](https://img.shields.io/badge/Cairo-1E1E1E?style=flat&logo=code&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=flat&logo=ethereum&logoColor=white)
+![ThirdWeb](https://img.shields.io/badge/ThirdWeb-FF6C37?style=flat&logo=thirdweb&logoColor=white)
 
 ---
 
@@ -57,8 +61,8 @@ Creative and adaptable Software Engineer with strong experience in building user
 
 - 🌍 I actively participate in Web3 and blockchain hackathons.  
 - 🧠 I learn by building real projects and collaborating with diverse teams.  
-- 🧪 I merge tech and science to create solutions that matter.  
-- 🤖 I’ve built Dapps powered by blockchain technologies!  
+- 🧪 I merge technology and science to create solutions that matter.  
+- 🤖 I’ve built full-stack and blockchain-powered dApps!  
 
 ---
 
