@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Chiscookeke</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer & AI/ML Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding gif"/>
@@ -7,37 +7,50 @@
 
 ---
 
-🚀 **About Me**
+### 🚀 About Me
 
-Versatile and experienced Software Engineer specializing in building web and Web3 applications. Skilled in designing and delivering user-centric, scalable, and performant solutions using modern technologies. Experienced with React.js, Next.js, TypeScript, Tailwind CSS, smart contract integration, API testing, and multi-chain dApp development. Proven ability to collaborate across teams, architect components, and contribute to both frontend and backend systems. Actively learning, building, contributing, and leading projects that merge technology with real-world impact.  
+Full-stack software engineer and AI/ML developer building products at the intersection of fintech, safety-tech, and data privacy across Africa. I lead technical documentation and operations for **Exchange DAO**, build products under **UNI-O-GATE**, and do data privacy consulting and advocacy work with the **Nigeria Data Protection Commission (NDPC)**. I also hold a Chemistry degree, which fuels an ongoing interest in cheminformatics, computational chemistry, and AI-driven drug discovery.
 
-- 💻 Core skills: **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Node.js**, **Tailwind CSS**  
-- 🔁 Engineering expertise: Component architecture, SSR, state management, testing, CI/CD, and building interactive, scalable systems  
-- 🌐 Backend & DB: **Supabase**, **Firebase**, **PostgreSQL**, **SQL**, REST & GraphQL APIs  
-- 🧪 Blockchain & Web3: **Sui**, **Cairo**, **Ethereum**, **ThirdWeb**, smart contracts, multi-chain dApps  
-- 🎓 Studying Chemistry at UNN | Exploring Green Tech & Blockchain Applications  
-- 🤝 Open to collaboration on full-stack, Web3, or software engineering projects  
+- 🔭 Currently building **UnioGate** (crypto-to-fiat fintech app), **Hawkeye** (school safeguarding platform), and **CivicVerify AI** (offline document verification agent for the Africa Deep Tech Challenge 2026)
+- 🛡️ Working on data privacy advocacy and awareness campaigns with the NDPC as a Data Protection & Privacy Ambassador
+- 🧪 Exploring the chemistry × software frontier: cheminformatics, computational chemistry, AI-driven drug discovery
+- 🏛️ DAO Lead at **Exchange DAO**, driving documentation, playbooks, and cohort operations
+- 🤖 Building AI agents using LLMs, computer vision, and the Anthropic SDK
+- 🤝 Open to collaboration on full-stack, AI/agentic, or Web3 engineering projects
 
 ---
 
 ### 🛠️ Languages & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Sui](https://img.shields.io/badge/Sui-0A66C2?style=flat&logo=sui&logoColor=white)
-![Cairo](https://img.shields.io/badge/Cairo-1E1E1E?style=flat&logo=code&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=flat&logo=ethereum&logoColor=white)
-![ThirdWeb](https://img.shields.io/badge/ThirdWeb-FF6C37?style=flat&logo=thirdweb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_SDK-D4A574?style=flat&logo=anthropic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🧩 Featured Projects
+
+**🔐 UnioGate** — Nigerian fintech crypto-to-fiat payment platform. Built with React Native/Expo, with full backend API integration covering auth, onboarding, dashboards, bank account management, crypto payment polling, and withdrawals, using per-domain Zustand stores and a discriminated-union service pattern.
+
+**🦅 Hawkeye** — School safeguarding platform using video-based violence and weapon detection. Built with FastAPI, Next.js, YOLO11, and PyTorch, fully Dockerized, with a custom dataset pipeline across UCF101 and RWF-2000 for a 3-class detection model.
+
+**🪪 CivicVerify AI** — Offline document verification agent for African government offices, built for the Africa Deep Tech Challenge 2026 (Autonomous AI Agents track). Runs fully offline on an 8GB laptop using llama.cpp, Tesseract OCR, SQLite, and Streamlit.
+
+**🌐 Exchange DAO** — DAO Lead responsible for Cohort 2 documentation and operations: master plans, guide playbooks, fundraising pitch decks, and working-group operational planning.
+
+**🛡️ Data Privacy Advocacy** — Data Protection & Privacy Ambassador with the NDPC; ran a Data Privacy Awareness Campaign in Enugu including a multi-day content series, volunteer recruitment materials, and public education carousels.
 
 ---
 
@@ -57,23 +70,14 @@ Versatile and experienced Software Engineer specializing in building web and Web
 
 ---
 
-### 💡 Did You Know?
-
-- 🌍 I actively participate in Web3 and blockchain hackathons.  
-- 🧠 I learn by building real projects and collaborating with diverse teams.  
-- 🧪 I merge technology and science to create solutions that matter.  
-- 🤖 I’ve built full-stack and blockchain-powered dApps!  
-
----
-
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-okeke-4080b8292/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/chisco_JS)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-okeke-4080b8292/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/chisco_JS)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpccpFMvsnCrRvRFXChZCZMVnFHQCjxxqQTWjPLcXBQSKhgMFVWNPVhBCgwTNfnpQdvSsG)
 
 ---
 
 <p align="center">
-  💻 Built with passion. Fueled by curiosity. Shaped by collaboration.
+  💻 Building at the intersection of fintech, safety-tech, AI agents, and data privacy — across Africa and beyond.
 </p>
