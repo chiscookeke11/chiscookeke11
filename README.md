@@ -9,12 +9,10 @@
 
 ### 🚀 About Me
 
-Full-stack software engineer and AI/ML developer building products at the intersection of fintech, safety-tech, and data privacy across Africa. I lead technical documentation and operations for **Exchange DAO**, build products under **UNI-O-GATE**, and do data privacy consulting and advocacy work with the **Nigeria Data Protection Commission (NDPC)**. I also hold a Chemistry degree, which fuels an ongoing interest in cheminformatics, computational chemistry, and AI-driven drug discovery.
+Full-stack software engineer and AI/ML developer building products at the intersection of fintech, safety-tech, and data privacy across Africa. I hold a Chemistry degree, which fuels an ongoing interest in cheminformatics, computational chemistry, and AI-driven drug discovery.
 
-- 🔭 Currently building **UnioGate** (crypto-to-fiat fintech app), **Hawkeye** (school safeguarding platform), and **CivicVerify AI** (offline document verification agent for the Africa Deep Tech Challenge 2026)
-- 🛡️ Working on data privacy advocacy and awareness campaigns with the NDPC as a Data Protection & Privacy Ambassador
+- 🛡️ Data privacy consulting and advocacy work with the Nigeria Data Protection Commission (NDPC)
 - 🧪 Exploring the chemistry × software frontier: cheminformatics, computational chemistry, AI-driven drug discovery
-- 🏛️ DAO Lead at **Exchange DAO**, driving documentation, playbooks, and cohort operations
 - 🤖 Building AI agents using LLMs, computer vision, and the Anthropic SDK
 - 🤝 Open to collaboration on full-stack, AI/agentic, or Web3 engineering projects
 
@@ -37,20 +35,6 @@ Full-stack software engineer and AI/ML developer building products at the inters
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_SDK-D4A574?style=flat&logo=anthropic&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 🧩 Featured Projects
-
-**🔐 UnioGate** — Nigerian fintech crypto-to-fiat payment platform. Built with React Native/Expo, with full backend API integration covering auth, onboarding, dashboards, bank account management, crypto payment polling, and withdrawals, using per-domain Zustand stores and a discriminated-union service pattern.
-
-**🦅 Hawkeye** — School safeguarding platform using video-based violence and weapon detection. Built with FastAPI, Next.js, YOLO11, and PyTorch, fully Dockerized, with a custom dataset pipeline across UCF101 and RWF-2000 for a 3-class detection model.
-
-**🪪 CivicVerify AI** — Offline document verification agent for African government offices, built for the Africa Deep Tech Challenge 2026 (Autonomous AI Agents track). Runs fully offline on an 8GB laptop using llama.cpp, Tesseract OCR, SQLite, and Streamlit.
-
-**🌐 Exchange DAO** — DAO Lead responsible for Cohort 2 documentation and operations: master plans, guide playbooks, fundraising pitch decks, and working-group operational planning.
-
-**🛡️ Data Privacy Advocacy** — Data Protection & Privacy Ambassador with the NDPC; ran a Data Privacy Awareness Campaign in Enugu including a multi-day content series, volunteer recruitment materials, and public education carousels.
 
 ---
 
