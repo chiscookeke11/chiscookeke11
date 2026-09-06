@@ -41,6 +41,9 @@ Full-stack software engineer and AI/ML developer building products at the inters
 ### 📊 GitHub Stats
 
 ![Top Languages](https://github-stats-mu-nine.vercel.app/api/top-langs/?username=chiscookeke11)
+
+
+---
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chiscookeke11&theme=radical)
 
 ---
