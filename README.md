@@ -42,7 +42,12 @@ Full-stack software engineer and AI/ML developer building products at the inters
 
 ![Chiscookeke11's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiscookeke11&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiscookeke11&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiscookeke11&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chiscookeke11&theme=radical)
 
